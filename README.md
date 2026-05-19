@@ -48,3 +48,7 @@ Clone the repository:
 ```bash
 git clone https://github.com/andeskdeng/diagonal-snake-game.git
 cd diagonal-snake-game
+
+git add README.md
+git commit -m "Add project README and documentation"
+git push
