@@ -1,6 +1,6 @@
 # Diagonal Snake Game 🐍
 
-A modern version of the classic Snake game built as a programming project to practice game logic, object movement, collision detection, and user interaction.
+A modern version of the classic Snake game built as a programming project
 
 ## Project Overview
 
